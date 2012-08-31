@@ -22,7 +22,7 @@
 
 	/*
 	  use: $.xfind(xpath);
-	  alias for $(document).expression;
+	  alias for $(document).xfind(xpath);
 	  @param (string) xpath selector expression
 	  @return (object) jQuery result object
 	*/
